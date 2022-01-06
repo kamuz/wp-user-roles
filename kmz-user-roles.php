@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Users Roles
- * Description: Print all user roles and capabilities
+ * Description: Display all user roles and capabilities
  * Author: Vladimir Kamuz
  * Version: 1.0
  *
